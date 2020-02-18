@@ -1,0 +1,10 @@
+.list-item-hov:hover {
+  background: #0c0c083b;
+  cursor: pointer;
+}
+.list {
+  width: 40em;
+  padding-left: 1em;
+  padding-right: 10em;
+  padding-bottom: 1em;
+}
